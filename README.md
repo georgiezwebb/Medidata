@@ -1,2 +1,1 @@
-# MedidataTechTest
-# Medidata
+## MedidataTechTest
